@@ -1,0 +1,10 @@
+# ==============================================================================
+# Python Tkinter Calculator - Dependencies
+# ==============================================================================
+# Note: Tkinter is part of Python's Standard Library.
+# No third-party packages are required to run this application!
+# Python 3.8 or higher is recommended.
+#
+# Optional Development & Packaging Dependencies:
+# flake8>=6.0.0       # Code linting & style enforcement
+# pyinstaller>=6.0.0  # Optional: Bundle into standalone .exe
